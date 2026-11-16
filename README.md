@@ -1,6 +1,6 @@
 # Offensive and Defensive Security Lab
 
-**Contributor:** Nikhil Angral
+**Contributor:** Jagtesh Singh
 **Course Code:** COM-502  
 **Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
